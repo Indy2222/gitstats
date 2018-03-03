@@ -1,0 +1,39 @@
+a993229c27d07fff2fc679cf35a5fab59414ac74 2 2 3
+author Martin Indra
+author-mail <martin@spaceknow.com>
+author-time 1460109816
+author-tz +0200
+committer Martin Indra
+committer-mail <martin.indra@mgn.cz>
+committer-time 1460110232
+committer-tz +0200
+summary Clean-up repository and add a better README
+previous 4f659dfe904a948a4284e2f6093b5fe2ea12b007 README.md
+filename README.md
+	
+a993229c27d07fff2fc679cf35a5fab59414ac74 3 3
+author Martin Indra
+author-mail <martin.indra@mgn.cz>
+author-time 1460109816
+author-tz +0200
+committer Martin Indra
+committer-mail <martin@spaceknow.com>
+committer-time 1460110232
+committer-tz +0200
+summary Clean-up repository and add a better README
+previous 4f659dfe904a948a4284e2f6093b5fe2ea12b007 README.md
+filename README.md
+	## How to Contribute
+a993229c27d07fff2fc679cf35a5fab59414ac74 4 4
+author Some Body
+author-mail <martin.indra@mgn.cz>
+author-time 1460109816
+author-tz +0200
+committer Martin Indra
+committer-mail <martin@spaceknow.com>
+committer-time 1460110232
+committer-tz +0200
+summary Clean-up repository and add a better README
+previous 4f659dfe904a948a4284e2f6093b5fe2ea12b007 README.md
+filename README.md
+	
