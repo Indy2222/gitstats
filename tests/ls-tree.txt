@@ -1,0 +1,6 @@
+100755 blob 83a1f7860fab31bb337982e8b16fd120256962de	gitstats.py
+100644 blob e69de29bb2d1d6434b8b29ae775ad8c2e48c5391	gitstats/__init__.py
+100644 blob 637b327b355248853085670d4d9e84c7dbba1925	gitstats/blame.py
+100644 blob e5ed2a091377ac8e9dd079b53b18a89fbf93a2ab	requirements.txt
+100644 blob 380412d9c572c0a238630df8acbc4ee71cf8facc	tests/blame.txt
+100644 blob 73f9e4760592bf791144a8d8ed93b8605ca61114	tests/test_blame.py
